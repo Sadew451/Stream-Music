@@ -54,7 +54,7 @@ from StreamMusic.helpers.filters import other_filters
 from StreamMusic.helpers.gets import get_file_name
 from StreamMusic.services.callsmusic import callsmusic
 from StreamMusic.services.callsmusic import client as USER
-from EzilaXMusicV1.services.converter.converter import convert
+from StreamMusic.services.converter.converter import convert
 from StreamMusic.services.downloaders import youtube
 from StreamMusic.services.queues import queues
 
