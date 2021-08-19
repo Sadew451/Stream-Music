@@ -5,6 +5,18 @@
 ### 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙖𝙨[@SDStreamMusicBot](https://t.me/SDStreamMusicBot)
 
 <p align="center">
+  <a href="https://github.com/sadew451/stream-music/stargazers">
+    <img src="https://img.shields.io/github/stars/sadew451/stream-music?style=social">
+
+  </a>
+  
+  <a href="https://github.com/sadew451/stream-music/fork">
+    <img src="https://img.shields.io/github/forks/sadew451/stream-music?label=Fork&style=social">
+
+  </a>  
+</p>
+
+<p align="center">
   <img src="https://telegra.ph/file/c9b3eeeef7d32593caca6.jpg">
 </p>
 
